@@ -67,3 +67,19 @@ You always reference ids by putting a # in front of their names.
     <button type="submit">Submit</button>
   </form>
 </main>
+
+
+<!--Now let's put our Cat Photo App away for a little while and learn more about styling HTML.
+You may have already noticed this, but all HTML elements are essentially little rectangles.
+Three important properties control the space that surrounds each HTML element: padding, border, and margin.
+An element's padding controls the amount of space between the element's content and its border.
+Here, we can see that the blue box and the red box are nested within the yellow box. 
+Note that the red box has more padding than the blue box.
+When you increase the blue box's padding, it will increase the distance (padding) between the text and the border around it.
+An element's margin controls the amount of space between an element's border and surrounding elements.
+Here, we can see that the blue box and the red box are nested within the yellow box. 
+Note that the red box has a bigger margin than the blue box, making it appear smaller.
+When you increase the blue box's margin, it will increase the distance between its border and surrounding elements.
+An element's margin controls the amount of space between an element's border and surrounding elements.
+If you set an element's margin to a negative value, the element will grow larger.
+-->
